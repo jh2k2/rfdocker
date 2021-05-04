@@ -1,4 +1,0 @@
-1620110474196	geckodriver	INFO	Listening on 127.0.0.1:51369
-1620110474207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekigZaG"
-1620110476825	Marionette	INFO	Listening on port 44245
-1620110476920	Marionette	WARN	TLS certificate errors will be ignored for this session
