@@ -1,6 +1,7 @@
 # rfdocker
 A script for building a docker image for robotframework/selenium environments 
 
+![hi](https://i.imgur.com/7xAV1Jw.png)
 # How to run:</br>
 
 To Build: `docker build robot-env .`</br>
